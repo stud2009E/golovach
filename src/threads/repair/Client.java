@@ -1,4 +1,4 @@
-package repairs;
+package threads.repair;
 
 public class Client {
 

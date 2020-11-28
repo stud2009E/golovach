@@ -1,4 +1,4 @@
-package sync;
+package threads.sync;
 
 public class Synchronized {
 

@@ -1,4 +1,4 @@
-package repairs;
+package threads.repair;
 
 import java.util.ArrayList;
 

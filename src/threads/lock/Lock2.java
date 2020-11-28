@@ -1,4 +1,4 @@
-package lock;
+package threads.lock;
 
 public class Lock2 {
 
