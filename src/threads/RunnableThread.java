@@ -1,3 +1,5 @@
+package threads;
+
 public  class RunnableThread {
 
     public static void main(String[] args) throws InterruptedException {
